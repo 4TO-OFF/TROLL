@@ -1,22 +1,27 @@
 # TROLL
 Des petit programme de troll innofencif
-# Programme de Fenêtre Fuyante et autres programmes de démonstration 💻⚠️
+Voici le README.md mis à jour avec les liens vers tes réseaux sociaux :
 
-Ce projet comprend plusieurs programmes en C destinés à simuler des comportements interactifs sur un PC, y compris des fenêtres qui fuient, des curseurs incontrôlables, des sons aléatoires, des effets visuels et des simulations de formatage. Chaque programme est conçu pour créer une expérience unique.
+markdown
+Copier
+Modifier
+# Programme de Fenêtre Fuyante, souris incontrolable et autres programmes de démonstration 💻⚠️
+
+Ce projet comprend plusieurs programmes en C destinés à simuler des comportements interactifs sur un PC, y compris des fenêtres qui fuient, des curseurs incontrôlables, des effets visuels et des simulations de formatage. Chaque programme est conçu pour créer une expérience unique.
 
 ## Fonctionnalités 📂
 
 - **`bsod.c`** : Simule l'affichage d'un écran bleu de la mort (BSOD) pour provoquer une réaction rapide. 🖥️
 - **`bureau_movant.c`** : Déplace les icônes du bureau à des positions aléatoires. 📁🔄
-- **`chaos.c`** : Lancement de plusieurs effets aléatoires sur le système pour créer un chaos général. 💥
+- **`chaos.c`** : Crée une fenêtre et laz duplique si elle est fermer. 💥
 - **`clavier_hante.c`** : Prend le contrôle du clavier et tape des lettres aléatoires. ⌨️🎭
 - **`curseur_tp.c`** : Déplace le curseur à des positions aléatoires sur l'écran. 🖱️🔀
 - **`fake_format.c`** : Simule un formatage du disque avec des messages progressifs, mais sans réel impact. 💾⚠️
 - **`fake_hack.c`** : Affiche des messages d'erreur et crée des pop-ups pour simuler un piratage. 🔓💻
 - **`fenetre_fuyante.c`** : Crée une fenêtre qui se déplace à des positions aléatoires lorsque le curseur est dessus. 🏃‍♂️💨
-- **`pc_quiz.c`** : Contient une commande potentiellement dangereuse (à utiliser uniquement dans un environnement contrôlé et sécurisé). ⚠️💣
+- **`pc_quiz.c`** : Contient une commande (potentiellement) dangereuse (à utiliser uniquement dans un environnement contrôlé et sécurisé). ⚠️💣
 
-**Important** : Le fichier `pc_quiz.c` contient une commande qui peut entraîner des pertes de données ou d'autres risques. Ce fichier n'a pas été compilé par défaut et **ne doit être exécuté que si vous êtes conscient des risques et que vous avez un environnement de test approprié**. 🔴
+**Important** : Le fichier `pc_quiz.c` contient une commande qui peut entraîner des pertes de données et d'autres risques. Ce fichier n'a pas été compilé par défaut et **ne doit être exécuté que si vous êtes conscient des risques et que vous avez un environnement de test approprié**. 🔴
 
 ## ⚠️ ATTENTION ! ⚠️
 
@@ -39,3 +44,19 @@ Le fichier `pc_quiz.c` peut être compilé de la manière suivante si vous souha
 3. Compilez le fichier `pc_quiz.c` avec la commande suivante :
    ```bash
    gcc -o pc_quiz pc_quiz.c  # Seulement si vous souhaitez compiler pc_quiz.c
+Exécutez le programme compilé avec :
+./pc_quiz  # Seulement si vous voulez l'exécuter (attention)
+Important : Ce fichier n'est pas compilé par défaut en raison de sa nature risquée. Si vous le compilez, faites-le avec une extrême prudence ! ⚠️
+
+Avertissement ⚡
+Le programme pc_quiz.c contient une commande qui peut être dangereuse pour votre système. Si vous choisissez de le compiler, assurez-vous d'avoir pris toutes les précautions nécessaires et de ne pas perturber vos systèmes de production. 🚫
+
+Note : Ce projet est destiné à des fins éducatives et pour le divertissement. Assurez-vous d'utiliser les programmes de manière responsable et de ne pas perturber vos systèmes ou ceux des autres. 🌐
+
+Liens vers mes réseaux sociaux 🌐
+Suivez-moi sur mes réseaux sociaux pour plus de contenu, d'actualités et de projets !
+
+- **YouTube** : [https://www.youtube.com/c/4TOOFF](https://www.youtube.com/c/4TOOFF)
+- **Twitch** : [https://www.twitch.tv/4to_off](https://www.twitch.tv/4to_off)
+- **Ko-Fi** : [https://ko-fi.com/4to_off](https://ko-fi.com/4to_off)
+- **Discord** : [https://discord.gg/WpwYCyWsxN](https://discord.gg/WpwYCyWsxN)
