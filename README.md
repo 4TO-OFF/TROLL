@@ -9,6 +9,23 @@ Modifier
 
 Ce projet comprend plusieurs programmes en C destinés à simuler des comportements interactifs sur un PC, y compris des fenêtres qui fuient, des curseurs incontrôlables, des effets visuels et des simulations de formatage. Chaque programme est conçu pour créer une expérience unique.
 
+##📥 Installation de Total Chaos  
+#📌 Étape 1 : Télécharger les fichiers  
+Rendez-vous sur mon [GitHub](https://github.com/4TO-OFF/TROLL) et téléchargez le fichier .zip contenant tous les exécutables en cliquant sur "Code <\>" puis télécharger le zip.  
+
+📌 Étape 2 : Extraire les fichiers
+Faites un clic droit sur le fichier .zip et sélectionnez "Extraire ici" ou "Extraire vers un dossier".
+
+📌 Étape 3 : Exécuter les programmes
+Double-cliquez sur l’un des .exe ou bat si il en possède (sert pour l'affichage UTF-8) pour le lancer.
+Pour quitter, utilisez Alt + F4 ou le Gestionnaire des tâches (Ctrl + Shift + Échap) si nécessaire.
+
+## Contenue 📂
+
+- 📂 Un dossier "every.exe" contenant les .exe (et des .bat pour un affichage UTF-8)
+- 📂 Un dossier "original code" contenant les .c  
+- 📂 Un dossier "NON COMPILER" contenant quiz_pc.c **⚠️ DANGEREUX**  
+
 ## Fonctionnalités 📂
 
 - **`bsod.c`** : Simule l'affichage d'un écran bleu de la mort (BSOD) pour provoquer une réaction rapide. 🖥️
@@ -56,7 +73,7 @@ Note : Ce projet est destiné à des fins éducatives et pour le divertissement.
 Liens vers mes réseaux sociaux 🌐
 Suivez-moi sur mes réseaux sociaux pour plus de contenu, d'actualités et de projets !
 
-- **YouTube** : [https://www.youtube.com/c/4TOOFF](https://www.youtube.com/c/4TOOFF)
-- **Twitch** : [https://www.twitch.tv/4to_off](https://www.twitch.tv/4to_off)
-- **Ko-Fi** : [https://ko-fi.com/4to_off](https://ko-fi.com/4to_off)
-- **Discord** : [https://discord.gg/WpwYCyWsxN](https://discord.gg/WpwYCyWsxN)
+- **YouTube** : [Youtube](https://www.youtube.com/c/4TOOFF)
+- **Twitch** : [Twitch](https://www.twitch.tv/4to_off)
+- **Ko-Fi** : [Ko-Fi](https://ko-fi.com/4to_off)
+- **Discord** : [Seveur discord](https://discord.gg/WpwYCyWsxN)
