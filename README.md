@@ -20,6 +20,20 @@ Faites un clic droit sur le fichier .zip et sélectionnez "Extraire ici" ou "Ext
 Double-cliquez sur l’un des .exe ou bat si il en possède (sert pour l'affichage UTF-8) pour le lancer.
 Pour quitter, utilisez Alt + F4 ou le Gestionnaire des tâches (Ctrl + Shift + Échap) si nécessaire.
 
+⚠️ **Si le téléchargement est bloquer**, lisez le paragraphe ci dessous
+
+## ⚠️ Avertissement concernant la détection par les antivirus
+
+Il est possible que certains antivirus détectent le fichier comme étant un programme potentiellement dangereux (par exemple, un "trojan" ou un "virus"). **Cela ne signifie pas que le projet contient un véritable malware.**
+
+Il s'agit d'un faux positif, car le code utilise des techniques similaires à celles des logiciels malveillants, comme les attaques par force brute. Certains antivirus peuvent réagir de manière excessive en raison de ce comportement. **Le projet a été conçu pour être utilisé à des fins éducatives uniquement et ne contient aucun code malveillant.**
+
+Si vous décidez de télécharger et d'exécuter ce projet, vous devrez peut-être **désactiver temporairement votre antivirus** pour éviter que celui-ci ne bloque l'exécution du fichier. Assurez-vous de télécharger le projet uniquement à partir de sources de confiance, et n'exécutez jamais un programme si vous n'êtes pas sûr de sa provenance.
+
+J'ai tester Firefox pour le téléchargement et rien n'a été bloquer. J'en deduis que vous pouvais utiliser Firefox.
+
+Si vous n'êtes pas sur à l'idée de l'executer, nous vous recommandons de scanner le fichier avec plusieurs outils antivirus après avoir désactivé le vôtre pour confirmer qu'il s'agit bien d'un faux positif.
+
 ## Contenue 📂
 
 - 📂 Un dossier "every.exe" contenant les .exe (et des .bat pour un affichage UTF-8)
